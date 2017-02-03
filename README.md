@@ -26,7 +26,7 @@ If you experience an issue with the syntax-highlighting on GitHub, **please repo
 
 ## Overrides
 
-Linguist supports a number of different custom overrides strategies for language definitions and vendored paths.
+Linguist supports a number of different custom strategies for language definitions and vendored paths.
 
 ### Using gitattributes
 
