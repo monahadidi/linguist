@@ -5,11 +5,11 @@
 
 This library is used on GitHub.com to detect blob languages, ignore binary or vendored files, suppress generated files in diffs, and generate language breakdown graphs.
 
-See [Troubleshooting](#troubleshooting) and [`CONTRIBUTING.md`](/CONTRIBUTING.md) before filing an issue or creating a pull request.
+I am simply testing this right now...
 
 ## Troubleshooting
 
-### My repository is detected as the wrong language
+### My repository is detected as the wrong language - why is this?
 
 ![language stats bar](https://cloud.githubusercontent.com/assets/173/5562290/48e24654-8ddf-11e4-8fe7-735b0ce3a0d3.png)
 
